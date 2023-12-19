@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/movies-info/static/js/main.b005de88.js",
-    "index.html": "/movies-info/index.html",
-    "main.b005de88.js.map": "/movies-info/static/js/main.b005de88.js.map"
+    "main.js": "/moviesinfo/static/js/main.b005de88.js",
+    "index.html": "/moviesinfo/index.html",
+    "main.b005de88.js.map": "/moviesinfo/static/js/main.b005de88.js.map"
   },
   "entrypoints": [
     "static/js/main.b005de88.js"
